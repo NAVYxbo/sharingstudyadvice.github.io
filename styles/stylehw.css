@@ -1,0 +1,58 @@
+body{
+    background-color: blanchedalmond;
+    font-family: sans-serif;
+    margin: 0 auto;
+    text-align:left;
+    font-size: 16px;
+    width: 1200px;
+    height: 480px;
+
+}
+h2{
+    font-size: 25px;
+}
+h3{
+    font-size: 25px;
+}
+h4{
+    font-size: 25px;
+}
+h5{
+    font-size: 25px;
+}
+#first{
+    font-size: 20px;
+}
+#second{
+    font-size: 20px;
+}
+#third{
+    font-size: 21px;
+}
+#fourth{
+    font-size: 20px;
+}
+#fifth{
+    font-size: 21px;
+}
+#sixth{
+    font-size: 20px;
+}
+#seventh{
+    font-size: 15.9px;
+}
+#nineth{
+    font-size: 20px;
+}
+#eleventh{
+    font-size: 20px;
+}
+#thirdteenth{
+    font-size: 20px;
+}
+#fifteenth{
+    font-size: 20px;
+}
+#sixteenth{
+    font-size: 19px;
+}
